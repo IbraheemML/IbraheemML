@@ -1,4 +1,4 @@
-##Hi, I'm Ibraheem
+Hi, I'm Ibraheem
 
 🛀 MSc Student at the University of Bath<br/ > 
 👨‍🎓 Studying Artificial Intelligence for Engineering and Design<br/ >
